@@ -1,4 +1,4 @@
-(defproject anaphorae "0.1.0-SNAPSHOT"
+(defproject anaphorae "0.1.0"
   :description "A small set of useful anaphoric macros"
   :url "http://github.com/num1/anaphorae"
   :license {:name "Eclipse Public License"
